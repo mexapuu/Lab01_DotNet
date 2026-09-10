@@ -1,3 +1,15 @@
 ﻿Console.WriteLine("Год: 2026");
 Console.WriteLine("Привет от ИСП-241");
 Console.WriteLine("Автор: Мухометова Олеся");
+int age = 20;
+double gpa = 4.5;
+bool isStudent = true;
+string name = "Иван";
+Console.WriteLine(name);
+Console.WriteLine(age);
+Console.WriteLine(gpa);
+Console.WriteLine(isStudent);
+var city = "Москва";
+var year = 2026;
+var pi = 3.14159;
+var isActive = true;
